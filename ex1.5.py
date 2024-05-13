@@ -1,0 +1,5 @@
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+numero3 = float(input("Digite o terceiro número: "))
+somaNumeros = (numero1*2) + (numero2*2) + (numero3*2)
+print(f"A soma do dobro dos números é: {somaNumeros:.2f}.")
